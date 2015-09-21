@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00Dr00000000WU7!AQkAQPRU7l_BVDO084nD8ZLwDpv4rBW36d5z.TM_u64rWNrdWjW.yZxpuR0vHXYU.uG4ZG1v9B2woUgiKCptqrcNOPhVPHsn</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00Dr00000000WU7!AQkAQK4S1X4seuKAbXvxSJfIAQhUBCbFbMfKqgxPGJ.jseum.KuiKteAA4INCsDH8sn_aAhEy4UpCLkF6w7m81RUjrzwl6bF</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00Dr00000000WU7!AQkAQNqZgveluYBS2R5IzI8YSoomjALNZpogaGxjznqGazTfw7sDucDFp6eSDS2CE7qWQo0m42B9f6m0XpU768DNZzeqmnXv</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): eop--Devforce17.cs32.my.salesforce.com

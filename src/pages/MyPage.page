@@ -1,0 +1,9 @@
+<apex:page showHeader="true" sidebar="true">
+	<apex:outputPanel id="thepanel1">
+		<apex:outputText value="Hi!"/>	<br/>
+		<h1>Test my Page</h1>
+		Test <br/>
+		Test <br/>
+		Test <br/>
+	</apex:outputPanel>
+</apex:page>
